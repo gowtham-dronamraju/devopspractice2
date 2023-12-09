@@ -1,2 +1,2 @@
 # devopspractice2
-devopspractice1
+devopspractice2
